@@ -3,7 +3,7 @@ Ex02-Linux Process API-fork(), wait(), exec()
 ## Name:Shreenidhi S
 ## Register no: 212225040410
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
-Operating systems Lab exercise
+Operating systems Lab exercise 
 
 
 # AIM:
